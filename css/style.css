@@ -19,6 +19,9 @@
     border-radius: 25px;
     text-align: center;
 }
+.item-description{
+    border: 2px solid saddlebrown;
+}
 .home{
     text-align: center;
 }
