@@ -1,0 +1,27 @@
+.menu-item1{
+    background-color: aquamarine;
+    border: 2px solid saddlebrown;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+}
+.menu-item2{
+    background-color: aquamarine;
+    border: 2px solid saddlebrown;
+    padding: 10px;
+    border-radius: 25px;
+    text-align: center;
+}
+.menu-item3{
+    background-color: aquamarine;
+    border: 2px solid saddlebrown;
+    padding: 10px;
+    border-radius: 25px;
+    text-align: center;
+}
+.home{
+    text-align: center;
+}
+a{
+     text-decoration: none;
+}
